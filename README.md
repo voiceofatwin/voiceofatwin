@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @voiceofatwin
 - 👀 I’m interested in learning to code better projects ...
 - 🌱 I’m currently learning python and how to use github
-- 💞️ I’m looking to collaborate on gun projects where I can contribute and learn 
+- 💞️ I’m looking to collaborate on projects where I can contribute and learn 
 - 📫 How to reach me, just page me, and I'll call you.
 
 <!---
